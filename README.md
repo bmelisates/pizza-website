@@ -16,7 +16,6 @@ Bu proje, Workintech Full Stack Web Geliştirme eğitimindeki S8 sunuma hazırl�
 **Başlangıç:**
 
 1. **Create Repo From Template & Clone:**
-
    - Sağ üstteki yeşil "Use this template" butonu ile, bir kopya oluşturun. işlemi tamamlandıktan sonra, kendi GitHub hesabınızda yer alan depo bağlantısını kopyalayın.
    - VS Code'u açın ve terminali başlatın. Aşağıdaki komutu kullanarak depoyu bilgisayarınıza klonlayın:
      ```sh
@@ -45,7 +44,7 @@ Bu proje, Workintech Full Stack Web Geliştirme eğitimindeki S8 sunuma hazırl�
 - `assets/`: Projede kullanacağınız tüm resim ve diğer statik dosyalar sizin için önden dışarı aktarıldı.
 - `index.html` dosyasını düzenleyerek HTML yapısını oluşturun.
 - Figma tasarımını ([S6 Pizza v2.1 Mobil](https://www.figma.com/design/B6rGWNjWqVyvuB9htLyIMR/S6-Challange-v2.1?node-id=0-1&t=FwsCbqkh8NWchoPX-1))
--  referans alarak CSS (`style.css`) ile sayfayı ve formu şekillendirin.
+- referans alarak CSS (`style.css`) ile sayfayı ve formu şekillendirin.
 
 #### Renk Kodları
 
