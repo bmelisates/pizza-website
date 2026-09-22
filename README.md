@@ -2,6 +2,16 @@
 
 A static restaurant landing page built with HTML and CSS during the Workintech Full Stack Web Development program.
 
+## Preview
+
+### Desktop
+
+<img width="1419" height="3730" alt="pizza-website" src="https://github.com/user-attachments/assets/e5dddad6-e5b7-4c44-ac79-6874e170a555" />
+
+### Mobile
+
+<img width="1179" height="14904" alt="pizza-website-mobile" src="https://github.com/user-attachments/assets/9269af45-fd83-435f-8ac5-6d0e300ba9ca" />
+
 ## About
 
 This project turns a provided design into a web page, focusing on HTML structure and CSS styling.
